@@ -64,6 +64,9 @@ body {
 	width: 100%;
 	padding-bottom: 5%;
 }
+.projects a, .text-center a{
+	color: #B404AE;
+}
 .center_bottom{
 	width: 100%;
 	padding-bottom: 5%;
