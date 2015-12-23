@@ -69,6 +69,14 @@ body {
 	padding-bottom: 5%;
 	background-color: #222;
 }
+.center_bottom a {
+	color: #fff;
+}
+
+.center_bottom a:hover {
+	color: #777;
+}
+
 .contact input{
 	margin: 3%;
 	

@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0360b715-4db4-4e1a-bcef-3996cb43fb1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SGT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bigbrains.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/computer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/goals.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/me1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/me1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/memorymatch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ttt.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.css" afterPath="$PROJECT_DIR$/portfolio.css" />
     </list>
     <ignored path="myPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,21 +25,48 @@
     <favorites_list name="myPortfolio" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43452382">
-              <caret line="181" column="52" selection-start-line="181" selection-start-column="52" selection-end-line="181" selection-end-column="52" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.28867623">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-16.625">
+                  <caret line="214" column="21" selection-start-line="214" selection-start-column="21" selection-end-line="214" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="portfolio.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/portfolio.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.7861635">
+                  <caret line="76" column="15" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.2559524">
+                  <caret line="178" column="85" selection-start-line="178" selection-start-column="85" selection-end-line="178" selection-end-column="85" />
+                  <folding>
+                    <element signature="n#style#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +74,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/portfolio.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -68,8 +86,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="y" value="225" />
+    <option name="x" value="40" />
+    <option name="y" value="177" />
     <option name="width" value="1400" />
     <option name="height" value="777" />
   </component>
@@ -162,7 +180,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="225" width="1400" height="777" extended-state="0" />
+    <frame x="40" y="177" width="1400" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.076583214" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -192,13 +210,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7861635">
+          <caret line="76" column="15" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43452382">
-          <caret line="181" column="52" selection-start-line="181" selection-start-column="52" selection-end-line="181" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.2559524">
+          <caret line="178" column="85" selection-start-line="178" selection-start-column="85" selection-end-line="178" selection-end-column="85" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
