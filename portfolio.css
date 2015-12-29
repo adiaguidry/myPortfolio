@@ -1,60 +1,37 @@
-
+@import url(https://fonts.googleapis.com/css?family=Oswald);
 body {
      height:100%;
      margin:0;
      padding:0;
-    font-family: 'Poiret One', cursive;
+    font-family: 'Poiret One', Arial;
 }
 
-/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
-.full {
-    background: url('path.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+.nav li a {
+	font-size: 1.5em
 }
-.nav li a, .navbar-brand{
-    color: #fff;
+.navbar-brand{
     font-size: 2em;
 }
-.navbar-nav{
-	float: right;
-}
-.center_scroll {
-	/* change height to responsive*/
-	height: 3500px;
-	width: 100%;
-}
 
-.center_top h1 {
-	margin-top: 20%;
-	text-align: center;
-}
-.center_top h4 {
-	margin-top: 2%;
-	text-align: center;
-	color: #B404AE
-}
-
-.center_middle{
+.center_middle {
 	height: 100%;
-	
 	padding-bottom: 5%;
-	background-color: #B404AE;
+	background-color: #F2F2F2;
 }
 .middle{
 	margin-top: 10%;
 }
-.center_middle h1, .center_bottom h1{
-	color: #fff;
-	font-size: 2em;
+.center_middle h1, .center_bottom h1, .projects h1, .final_project h1, .top h1{
+	font-size: 3em;
 	text-align: center;
 	margin-top: 5%;
+	font-family: 'Oswald', sans-serif;
+	color:#777;
+	text-transform: uppercase;
 }
 .center_middle p{
-	color: #fff;
+	color: #000;
 	font-size: 2em;
 	text-align: center;
 	margin-top: 2%;
@@ -64,8 +41,14 @@ body {
 	width: 100%;
 	padding-bottom: 5%;
 }
+.projects, .top{
+	background-color: #F8EFFB;
+}
 .projects a, .text-center a{
 	color: #B404AE;
+}
+.final_project{
+	background-color: #F8EFFB;
 }
 .center_bottom{
 	width: 100%;
@@ -89,81 +72,7 @@ body {
 	text-align: center;
 	margin-top: 10%;
 }
-.my_pic {
-	width: 100px;
-	float: left;
-}
-.whitebackground h1, .name{
-	text-align: center;
-	text-transform: uppercase;
-	color: #fff;
-}
-.top_box{
-	height:20vh;
-	margin-top: 10%; 
-	background-color: #B404AE;
-	margin-bottom: 20vh;
-	border: 1px solid #fff;
-}
-.project_box1{
-	border: 10px solid #222;
-	height:35vh;
-	background-color: #fff;
-	background-image: url('memorymatch.png');
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-.project_box2{
-	border: 10px solid #222;
-	height:35vh;
-	background-color: #fff;
-	background-image: url('bigbrains.png');
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-.project_box3{
-	border: 10px solid #222;
-	height:35vh;
-	background-color: #fff;
-	background-image: url('ttt.png');
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-.project_box4{
-	border: 10px solid #222;
-	height:35vh;
-	background-color: #fff;
-	background-image: url('SGT.png');
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-.project_box5{
-	border: 10px solid #222;
-	height:35vh;
-	background-color: #fff;
-	background-image: url('final.png');
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-#project_modal {
-     visibility: hidden;
-     position: absolute;
-     left: 0px;
-     top: -1vh;
-     height:100%;
-     text-align:center;
-     z-index: 1000;
-}
-#project_modal div {
-     width:100%;
-     margin: 10px auto;
-     border:1px solid #fff;
-     padding:15px;
-     text-align:center;
-}
-#project_modal div a{
-	color: #fff;
-}
+
 
 
 
