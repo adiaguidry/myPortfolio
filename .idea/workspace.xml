@@ -31,9 +31,9 @@
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
-                  <caret line="290" column="14" selection-start-line="290" selection-start-column="14" selection-end-line="290" selection-end-column="14" />
+                  <caret line="291" column="14" selection-start-line="291" selection-start-column="14" selection-end-line="291" selection-end-column="14" />
                   <folding>
-                    <marker date="1451773554000" expanded="true" signature="920:14543" placeholder="..." />
+                    <marker date="1451774018000" expanded="true" signature="920:14698" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -56,10 +56,10 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5833333">
-                  <caret line="213" column="33" selection-start-line="213" selection-start-column="33" selection-end-line="213" selection-end-column="33" />
+                <state vertical-scroll-proportion="-0.375">
+                  <caret line="190" column="10" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
                   <folding>
-                    <marker date="1451773554000" expanded="true" signature="920:14543" placeholder="..." />
+                    <marker date="1451774018000" expanded="true" signature="920:14698" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -90,8 +90,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1447" />
-    <option name="y" value="24" />
+    <option name="x" value="1554" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="617" />
   </component>
@@ -193,7 +193,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1447" y="24" width="1280" height="617" extended-state="0" />
+    <frame x="1554" y="23" width="1280" height="617" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06623586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -244,7 +244,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="289" column="14" selection-start-line="289" selection-start-column="14" selection-end-line="289" selection-end-column="14" />
           <folding>
-            <marker date="1451773554000" expanded="true" signature="920:14543" placeholder="..." />
+            <marker date="1451774018000" expanded="true" signature="920:14698" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -262,7 +262,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="218" column="21" selection-start-line="218" selection-start-column="21" selection-end-line="218" selection-end-column="21" />
           <folding>
-            <marker date="1451773554000" expanded="true" signature="920:14543" placeholder="..." />
+            <marker date="1451774018000" expanded="true" signature="920:14698" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -277,10 +277,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5833333">
-          <caret line="213" column="33" selection-start-line="213" selection-start-column="33" selection-end-line="213" selection-end-column="33" />
+        <state vertical-scroll-proportion="-0.375">
+          <caret line="190" column="10" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
           <folding>
-            <marker date="1451773554000" expanded="true" signature="920:14543" placeholder="..." />
+            <marker date="1451774018000" expanded="true" signature="920:14698" placeholder="..." />
           </folding>
         </state>
       </provider>
