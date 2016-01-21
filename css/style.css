@@ -845,6 +845,9 @@ and (max-width: 480px) {
     .navbar-brand h1 {
         color: #fff;
     }
+    .section-title p{
+        margin: 10% 0;
+    }
 
     #back-top {
         position: fixed;
