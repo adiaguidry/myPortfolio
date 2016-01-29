@@ -4,6 +4,7 @@
     <list default="true" id="0360b715-4db4-4e1a-bcef-3996cb43fb1d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="myPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,14 +25,14 @@
     <favorites_list name="myPortfolio" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.63178915">
+    <splitter split-orientation="horizontal" split-proportion="0.6948882">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.19327731">
-                  <caret line="368" column="29" selection-start-line="368" selection-start-column="29" selection-end-line="368" selection-end-column="29" />
+                <state vertical-scroll-proportion="0.6617647">
+                  <caret line="92" column="83" selection-start-line="92" selection-start-column="83" selection-end-line="92" selection-end-column="83" />
                   <folding />
                 </state>
               </provider>
@@ -44,8 +45,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.8997773">
-                  <caret line="886" column="4" selection-start-line="886" selection-start-column="4" selection-end-line="886" selection-end-column="4" />
+                <state vertical-scroll-proportion="0.8663697">
+                  <caret line="891" column="24" selection-start-line="891" selection-start-column="24" selection-end-line="891" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -63,8 +64,8 @@
       <list>
         <option value="$PROJECT_DIR$/portfolio.css" />
         <option value="$PROJECT_DIR$/js/mooz.themes.scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -469,18 +470,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19327731">
-          <caret line="368" column="29" selection-start-line="368" selection-start-column="29" selection-end-line="368" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.8663697">
+          <caret line="891" column="24" selection-start-line="891" selection-start-column="24" selection-end-line="891" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8997773">
-          <caret line="886" column="4" selection-start-line="886" selection-start-column="4" selection-end-line="886" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.6617647">
+          <caret line="92" column="83" selection-start-line="92" selection-start-column="83" selection-end-line="92" selection-end-column="83" />
           <folding />
         </state>
       </provider>

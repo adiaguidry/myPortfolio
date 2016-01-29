@@ -886,4 +886,9 @@ and (max-width: 480px) {
     font-size: 1.8em;
     text-decoration: underline;
 }
+.about_standouts {
+    font-family: 'Kalam', sans-serif;
+    font-size: 2em;
+    color: mediumpurple;
+}
 
