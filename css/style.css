@@ -880,4 +880,10 @@ and (max-width: 480px) {
     font-size: 1.4em;
 
 }
+.skill_box h1 {
+    font-family: 'Kalam', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.8em;
+    text-decoration: underline;
+}
 
