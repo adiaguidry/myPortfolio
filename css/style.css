@@ -853,6 +853,7 @@ and (max-width: 480px) {
     #back-top {
         position: fixed;
         bottom: 10px;
+
         right: 30px;
     }
 
