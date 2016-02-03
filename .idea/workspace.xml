@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../myBlog/index.html" description="&lt;script src=&quot;https://cdn.firebase.com/js/client/2...." line="52" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0360b715-4db4-4e1a-bcef-3996cb43fb1d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/SGT.png" afterPath="$PROJECT_DIR$/images/SGT.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myPortfolio.iws" />
@@ -23,14 +27,14 @@
     <favorites_list name="myPortfolio" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6948882">
+    <splitter split-orientation="horizontal" split-proportion="0.41218355">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3487395">
-                  <caret line="304" column="43" selection-start-line="304" selection-start-column="43" selection-end-line="304" selection-end-column="95" />
+                <state vertical-scroll-proportion="0.12815127">
+                  <caret line="295" column="90" selection-start-line="304" selection-start-column="43" selection-end-line="304" selection-end-column="95" />
                   <folding />
                 </state>
               </provider>
@@ -43,7 +47,7 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.15126051">
+                <state vertical-scroll-proportion="2.3235295">
                   <caret line="856" column="3" selection-start-line="856" selection-start-column="3" selection-end-line="856" selection-end-column="3" />
                   <folding />
                 </state>
@@ -77,8 +81,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="761" />
-    <option name="y" value="88" />
+    <option name="x" value="327" />
+    <option name="y" value="33" />
     <option name="width" value="1361" />
     <option name="height" value="810" />
   </component>
@@ -208,10 +212,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="88" width="1361" height="810" extended-state="1" />
+    <frame x="327" y="33" width="1361" height="810" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.051554207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.041698255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -474,18 +478,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15126051">
-          <caret line="856" column="3" selection-start-line="856" selection-start-column="3" selection-end-line="856" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.12815127">
+          <caret line="295" column="90" selection-start-line="304" selection-start-column="43" selection-end-line="304" selection-end-column="95" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3487395">
-          <caret line="304" column="43" selection-start-line="304" selection-start-column="43" selection-end-line="304" selection-end-column="95" />
+        <state vertical-scroll-proportion="2.3235295">
+          <caret line="856" column="3" selection-start-line="856" selection-start-column="3" selection-end-line="856" selection-end-column="3" />
           <folding />
         </state>
       </provider>
